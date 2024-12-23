@@ -1,5 +1,5 @@
 # Image-to-Text-Conversion-
-Setup by
+Setup by:
 npm i
 
 Now you can run this demo by executing:
